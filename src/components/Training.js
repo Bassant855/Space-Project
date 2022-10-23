@@ -17,10 +17,10 @@ const Training = () => {
             <div className='right'>
                 <div className='img-container'>
                     <div className='img-stack top'>
-                      <img src={moon} className='img'/>
+                      <img src={moon} className='img' alt=''/>
                     </div>
                     <div className='img-stack bottom'>
-                      <img src={space} className='img'/>
+                      <img src={space} className='img' alt=''/>
                     </div>
                 </div>
             </div>
