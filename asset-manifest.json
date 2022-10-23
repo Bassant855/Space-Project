@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Space-Project/static/css/main.00032bf5.css",
-    "main.js": "/Space-Project/static/js/main.b6abe9d1.js",
+    "main.js": "/Space-Project/static/js/main.0fb29db3.js",
     "static/media/space.mp4": "/Space-Project/static/media/space.41584ed51700d249bf73.mp4",
     "static/media/heroImg.jpg": "/Space-Project/static/media/heroImg.717ecc48caf23ce480de.jpg",
     "static/media/moon.jpg": "/Space-Project/static/media/moon.91396c73f099b0f6971b.jpg",
     "static/media/space project.jpg": "/Space-Project/static/media/space project.30776f82b7df80237211.jpg",
     "index.html": "/Space-Project/index.html",
     "main.00032bf5.css.map": "/Space-Project/static/css/main.00032bf5.css.map",
-    "main.b6abe9d1.js.map": "/Space-Project/static/js/main.b6abe9d1.js.map"
+    "main.0fb29db3.js.map": "/Space-Project/static/js/main.0fb29db3.js.map"
   },
   "entrypoints": [
     "static/css/main.00032bf5.css",
-    "static/js/main.b6abe9d1.js"
+    "static/js/main.0fb29db3.js"
   ]
 }
